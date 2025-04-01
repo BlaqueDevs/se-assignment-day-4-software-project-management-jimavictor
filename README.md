@@ -94,6 +94,7 @@ A **Work Breakdown Structure (WBS)** is a hierarchical decomposition of project 
 Gantt charts visually map tasks, dependencies, and deadlines, making it easier to track progress and adjust plans accordingly.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The real-time note-sharing app solves key problems like the lack of seamless collaboration, limited offline access, and poor sharing controls. Many existing note apps require an internet connection and don't allow for real-time editing or granular permissions. Additionally, they often lack features like markdown support or code formatting, which are important for developers and writers. This app makes note-taking more flexible, collaborative, and accessible, ensuring productivity even without internet access.
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 
@@ -106,12 +107,20 @@ Clearly defining the problem ensures that:
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 
-(Example response based on a generic software product:)  
-*"Our software simplifies task management by providing an intuitive platform for tracking, organizing, and prioritizing work, helping teams stay productive and aligned with their goals."*
+The real-time note-sharing app is a simple, yet powerful tool that allows users to create, edit, and securely share notes in real-time, whether they’re working alone or collaborating with others. It’s designed to be intuitive, offering a seamless experience that works both online and offline. With features like markdown support, flexible sharing options, and a focus on speed and ease of use, this app ensures that notes are always accessible and easy to manage, no matter where you are or who you're working with.
 
 ## 11. What are the main features or functionalities that make your software stand out?
 
+- Real-Time Collaboration – Multiple users can edit and share notes simultaneously.
+- Offline Access – Notes can be edited offline and synced when the user is back online.
+- Markdown Support – Flexible note formatting, including code snippets, for developers and writers.
+- Granular Sharing Controls – Users can securely share notes with read-only or edit access.
+- Easy Organization – Intuitive tagging and search features for quick access to notes.
+- User-Friendly Interface – Clean design that enhances the overall user experience.
+  
 ## 12. What data is available regarding the market size and growth potential for your software?
+
+Recent studies and market reports show strong growth in the productivity and collaboration software sector, which includes note-taking apps. For instance, the global productivity software market is projected to hit around $96 billion by 2030 with a CAGR of roughly 14%. Within this broad market, the note-taking and collaboration segment is estimated to grow at an annual rate of about 10–12%. This growth is largely driven by the increasing shift to remote work, a rising demand for cloud-based solutions, and a growing need for tools that offer both online and offline capabilities. These trends suggest that a real-time note-sharing app with features like offline access and secure, granular sharing is well positioned to capture a meaningful share of a rapidly expanding market.  
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
 
